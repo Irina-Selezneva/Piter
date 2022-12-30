@@ -2,7 +2,7 @@
 
 1703-бесконечность
 
-![Двор-колодец](https://drive.google.com/file/d/1a2Ms7b_dLRG0MYSgIPRPHWfWWmyN9qVJ/view?usp=share_link)
+![Двор-колодец](./Screenshot_20220331_104438.jpg)
 
 ## Основные признаки:
 
